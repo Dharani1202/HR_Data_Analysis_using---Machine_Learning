@@ -6,7 +6,7 @@
 * It covers **data preprocessing**, **exploratory data analysis (EDA)**, **feature engineering**, and **machine learning modeling**.
 * The goal is to create a reliable model to support HR decisions using data-driven insights.
 
-🔗 <a href=""View the Project
+🔗 <a href="https://github.com/Dharani1202/HR_Data_Analysis_using---Machine_Learning/blob/main/ML_HR_PROJECT.ipynb"> View the Project </a>
 
 ---
 
@@ -129,7 +129,7 @@
 
 ---
 
-🔗 View the Project
+🔗 <a href="https://github.com/Dharani1202/HR_Data_Analysis_using---Machine_Learning/blob/main/ML_HR_PROJECT.ipynb"> View the Project </a>
 
 ---
 
